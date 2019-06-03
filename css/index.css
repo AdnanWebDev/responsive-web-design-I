@@ -276,6 +276,7 @@ img {
     }
      .website-wrapper{
        margin: 130px 0 0 auto;
+       
     }
 }
 
@@ -283,7 +284,7 @@ img {
     .website-wrapper{
         width: 500px;
         display: block;
-        text-align: left;
+        
     }
 }
 
@@ -312,11 +313,10 @@ header div {
 }
 @media(max-width:800px){
     header div{
-        margin:-39px 0 0 255px;
-        
+        margin:-39px 0 0 250px;
     }
 }
-@media(max-width:800px){
+@media(max-width:500px){
     header div{
         margin:-39px 0 0 100px;
         
